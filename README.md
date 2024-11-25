@@ -25,6 +25,8 @@ The provided data had a lot of discrepancies. I had to make a few assumptions fo
 - Locations with significantly better compliance are also associated with higher expenses.
 - There is very little correlation between pollution levels and compliance status.
 
+![Dashboard](assets/dashboard.png)
+*Figure 2: Dashboard created in MS Excel for analysis*
 
 ## Strategic Recommendations
 1. **Operational Restructuring**:  
